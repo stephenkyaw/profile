@@ -1,8 +1,9 @@
-## Hi I am KMA :D
+## Hello,
 
-### Markdown
+### I am Kyaw Myo Aung;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An experienced web developer and enterprise web application.
+I'm very familiar with Microsoft .NET framework, modern client-side frameworks and both SQL and No-SQL databases. I've built a bunch of websites running in the cloud, participated in product development in my previous company.
 
 ```markdown
 Syntax highlighted code block
