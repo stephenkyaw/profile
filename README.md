@@ -1,4 +1,4 @@
-## Hello,
+## Hi th
 
 ### I am Kyaw Myo Aung;
 
@@ -6,21 +6,17 @@ An experienced web developer and enterprise web application.
 I'm very familiar with Microsoft .NET framework, modern client-side frameworks and both SQL and No-SQL databases. I've built a bunch of websites running in the cloud, participated in product development in my previous company.
 
 ```markdown
-Syntax highlighted code block
+language skill =>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- c#, asp.net webforms, mvc, webapi
+- html, css, javascript, etc...
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/kyawmyoaung-dev)  ![Image](https://drive.google.com/file/d/1y777HexHoz9l9ULV_iI6K2wlGVOehTWq/view?usp=sharing)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
