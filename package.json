@@ -1,7 +1,7 @@
 {
-  "name": "webtemplate-starter-kit",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Starter Kit For Web Templates",
+  "description": "Portfolio",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch sass/main.scss css/style.css"
